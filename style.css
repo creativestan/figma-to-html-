@@ -1,0 +1,94 @@
+.myNav
+{
+	background-color: #245C84;
+
+}
+
+.navbar-brand 
+{
+	font-size: 20px !important; 	
+}
+
+.myNav a 
+{
+	color: white;
+	font-family: 'Kanit', sans-serif;
+	font-size: 15px;	
+}
+
+.navbar-nav a
+{
+	font-weight: bold;
+}
+
+.myHead
+{
+	background-color: #245C84;
+	height: 375px;
+}
+
+.left
+{
+	color: white;
+	font-family: 'Kanit', sans-serif;
+}
+
+.left button
+{
+	color: white;
+	font-weight: bold;
+}
+
+/*
+.left h1
+{
+	font-size: 33px;
+	font-weight: 400;
+}
+
+
+
+.left p
+{
+	font-size: 13px;
+
+}*/
+
+
+.second
+{
+	/*height: 120px;*/
+	background-color: #282C44;
+	color: white;
+	font-family: 'Kanit', sans-serif;
+}
+
+.second h1
+{
+	font-size: 33px;	
+	font-weight: bold;
+}
+
+.second p
+{
+	font-size: 15px;	
+}
+
+.third
+{
+	background-color: #282C44;	
+}
+
+.third .child
+{
+	height: 84px;
+	background-color: white;
+	border-radius: 10px;
+	width: 50%;
+
+}
+
+.inner
+{
+	width: 60%;
+}
